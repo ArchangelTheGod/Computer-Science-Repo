@@ -1,0 +1,4 @@
+#Info: Algorithm00
+#Question: X
+#File name: x.xx.py
+#File tpye: Algorithm
