@@ -1,0 +1,46 @@
+#Info: Algorithm 01
+#Question: A (2.09 Algorithms and Flowcharts)
+#File name: 2.09.txt
+#File tpye: Algorithm
+
+GOAL: Make a SANDWHICH!!!
+
+------------------------------------------------------------------------------------------------------------------
+
+Start:
+Obtain "Sufficient" funds to purchase necessary materials
+-Mayonaise
+-Cheese
+-(OPTIONAL) Cold Cuts
+-Bread
+-Spoon
+-Knife, Butter Knife (OPTIONAL)
+-Plate
+
+------------------------------------------------------------------------------------------------------------------
+
+Construction:
+1 Place bread (2x) on a plate (1x).
+2 Open the Mayonaise (1x) and use the spoon (1x) to obtain a generous amount of Mayonaise.
+3 Spread the Mayonaise evenly on both slices of bread.
+4 (OPTIONAL) Place the Cold Cuts on top of the mayo-bread (At least 2/3 slices per bread-slice)
+5 Cut the Cheese width-wise (12x slices) and place 6x on either slice of bread
+6 Repeat steps 4-5 if you wish to make the sandwhich thicc af
+7 When you're satisfied with your progress, stack the sandwhich slices onto eachother. Meat-side inwards.
+
+------------------------------------------------------------------------------------------------------------------
+
+Consumption:
+1 Move your arms toward the plate, and use your hands to firmly pick-up the "gelatinous" construction.
+2 Open your mouth and raise your arms with the sandwhich in-hand and raise it to your mouth.
+3 Firmly bite down on the sandwhich and begin chewing.
+4 When the sandwhich has been ground up enough, enter the process of swallowing.
+5 If the sandwhich ends up choking you, signal for help- (Your assistant should be able to perform abdominal thrusts.)
+6 Otherwise, pick-up a glass of water to wash down the contents for another eating cycle.
+7 To fully consume the sandwhich, repeat steps 1-6.
+
+------------------------------------------------------------------------------------------------------------------
+
+Congratulations! You have successfully constructed & consumed a sandwhich!
+
+<-- Hello There! -->
