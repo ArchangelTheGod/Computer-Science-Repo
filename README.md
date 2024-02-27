@@ -12,5 +12,7 @@
 
 ## Credits:
 - Archangel
+  
 Discord: @archangelthegod (AxxlJGR#7908)
+
 Links: [My Carrd](https://archangelthegod.carrd.co)
